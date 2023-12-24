@@ -1,0 +1,17 @@
+.imgSetup {
+  height: 50vh;
+}
+.card {
+  border: none;
+}
+.Imgid {
+  margin-top: 100px;
+  height: 400px;
+  width: 400px;
+}
+.Fset {
+  margin-top: 10px;
+  font-size: 2em;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(129, 134, 137);
+}
